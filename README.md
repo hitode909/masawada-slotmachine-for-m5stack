@@ -1,5 +1,7 @@
 # masawada slotmachine form M5Stack
 
+![thumbnail](./photo.jpg)
+
 - M5Stackで遊べるマサワダスロットマシン
   - 文脈: [ma→sa→wa→da で masawada 完成 \(masawada slotmachine 第1回\) \- 平常運転](https://blog.astj.space/entry/2020/12/06/235824)
 - 画像の変換は以下のスクリプトを利用しました
