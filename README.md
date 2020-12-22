@@ -1,4 +1,4 @@
-# masawada slotmachine form M5Stack
+# masawada slotmachine for M5Stack
 
 ![thumbnail](./photo.jpg)
 
